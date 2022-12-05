@@ -5,3 +5,4 @@ I'm trying to use this event to learn Clojure and Go, prioritizing Clojure. I ca
 1. Python > Clojure > Go
 1. Clojure > Go
 1. Clojure > Go
+1. Clojure
