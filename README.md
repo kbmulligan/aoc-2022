@@ -8,3 +8,4 @@ I'm trying to use this event to learn Clojure and Go, prioritizing Clojure. I ca
 1. Clojure
 1. Clojure
 1. Clojure
+1. Around this time installed Dwarf Fortress
